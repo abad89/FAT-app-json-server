@@ -1,34 +1,92 @@
 {
   "days": [
-    {
-      "id": 1,
-      "month": "June",
-      "date": 6,
-      "year": 2021,
-      "steps": 12651,
-      "sleepHours": 4,
-      "sleepMinutes": 58,
-      "highlight": "yes"
-    },
-    {
-      "id": 2,
-      "month": "June",
-      "date": 5,
-      "year": 2021,
-      "steps": 7946,
-      "sleepHours": 4,
-      "sleepMinutes": 36,
-      "highlight": "no"
-    },
-    {
-      "id": 3,
-      "month": "June",
-      "date": 4,
-      "year": 2021,
-      "steps": 9623,
-      "sleepHours": 5,
-      "sleepMinutes": 10,
-      "highlight": "no"
-    }
-  ]
+      {
+        "month": "6",
+        "date": 7,
+        "year": 2021,
+        "steps": 5031,
+        "sleepHours": 4,
+        "sleepMinutes": 52,
+        "highlight": "no",
+        "iso": "2021-06-07",
+        "id": 6
+      },
+      {
+        "month": "6",
+        "date": 6,
+        "year": 2021,
+        "steps": 12651,
+        "sleepHours": 4,
+        "sleepMinutes": 58,
+        "highlight": "yes",
+        "iso": "2021-06-06",
+        "id": 7
+      },
+      {
+        "month": "6",
+        "date": 5,
+        "year": 2021,
+        "steps": 7946,
+        "sleepHours": 4,
+        "sleepMinutes": 36,
+        "highlight": "no",
+        "iso": "2021-06-05",
+        "id": 8
+      },
+      {
+        "month": "6",
+        "date": 4,
+        "year": 2021,
+        "steps": 9623,
+        "sleepHours": 5,
+        "sleepMinutes": 10,
+        "highlight": "no",
+        "iso": "2021-06-04",
+        "id": 9
+      },
+      {
+        "month": "6",
+        "date": 3,
+        "year": 2021,
+        "steps": 7655,
+        "sleepHours": 11,
+        "sleepMinutes": 52,
+        "highlight": "no",
+        "iso": "2021-06-03",
+        "id": 10
+      },
+      {
+        "month": "6",
+        "date": 2,
+        "year": 2021,
+        "steps": 4701,
+        "sleepHours": 3,
+        "sleepMinutes": 47,
+        "highlight": "no",
+        "iso": "2021-06-02",
+        "id": 11
+      },
+      {
+        "month": "6",
+        "date": 1,
+        "year": 2021,
+        "steps": 6903,
+        "sleepHours": 6,
+        "sleepMinutes": 19,
+        "highlight": "no",
+        "iso": "2021-06-01",
+        "id": 12
+      },
+      {
+        "month": "5",
+        "date": 31,
+        "year": 2021,
+        "steps": 1699,
+        "sleepHours": 6,
+        "sleepMinutes": 1,
+        "highlight": "no",
+        "iso": "2021-05-31",
+        "id": 13
+      }
+    ]
 }
